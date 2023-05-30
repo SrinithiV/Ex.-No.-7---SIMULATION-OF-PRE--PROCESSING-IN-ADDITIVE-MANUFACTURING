@@ -43,9 +43,29 @@
 ### Name: SRINITHI V
 ### Register Number: 212222110046
 
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+### 1. CAD File Preparation
+
+![ex 7 1](https://github.com/SrinithiV/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118722030/1efa08df-b575-4311-bdd6-10913467572e)
+
+The first step in pre-processing is preparing the design of the object to be printed. This typically involves using computer-aided design (CAD) software to create a 3D model of the desired object. The design can be created from scratch or obtained from an existing design library.
+
+### 2. Conversion to STL
+
+![ex 7 2](https://github.com/SrinithiV/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118722030/ac8cfd1b-a801-4f7e-8f1d-e241505cf300)
+
+The conversion of a CAD file to the STL (Standard Tessellation Language) format is a common step in the pre-processing phase of 3D printing. STL files represent the 3D geometry of an object as a collection of interconnected triangles, making it suitable for 3D printing. To convert a CAD file to STL, follow these general steps:
+
+### a. Orientation:
+
+
+### b. Support Structure:
+
+
+### c. Slicing:
+
+
+### d. Path Planning:
+
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
