@@ -57,7 +57,7 @@
 
 ### a. Orientation:
 
-
+![ex 7 3 ](https://github.com/SrinithiV/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118722030/782e6649-104a-4a9e-b93c-706218be50f4)
 
 ##### Orientation is defined as the alignment of an object within the space of the build volume. It impacts stability, surface finish, and printability.
    ##### Horizontal Orientation :  In this orientation, the bottom surface of the object is placed flat on the printing bed. This is often the default orientation for many objects, especially those with a stable base. It provides good stability during printing and minimizes the need for support structures, resulting in a better surface finish on the bottom side.
@@ -65,7 +65,6 @@
    ##### Angled Orientation :  Angled orientation refers to positioning the object at an angle between horizontal and vertical orientations. This can be beneficial for reducing the number and complexity of support structures while maintaining good strength and surface quality. Angling the object can also help minimize visible layer lines on critical surfaces.
  
 ### b. Support Structure:
-
 
 
 ##### Support structures are temporary structures that are added to a 3D printed object during the printing process. They are designed to provide stability and prevent the collapse or distortion of overhanging or complex features of the model that do not have sufficient support from the layers below.
