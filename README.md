@@ -66,12 +66,13 @@
  
 ### b. Support Structure:
 
+![ex 7 4](https://github.com/SrinithiV/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118722030/e58aa2eb-6225-495b-bbf9-09614b087fcb)
 
 ##### Support structures are temporary structures that are added to a 3D printed object during the printing process. They are designed to provide stability and prevent the collapse or distortion of overhanging or complex features of the model that do not have sufficient support from the layers below.
 
 ### c. Slicing:
 
-
+![ex 7 5](https://github.com/SrinithiV/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118722030/46388ae6-f853-4fa3-9651-91cc7d61de09)
 
 ##### Slicing in 3D printing is the process of converting a 3D model into a set of instructions that a 3D printer can understand and execute. It involves breaking down the model into thin, horizontal layers (slices) and generating the necessary toolpath instructions for the printer to create each layer.
    ##### Uniform Layer Slicing :  Uniform layer slicing, also known as fixed layer thickness slicing, is a traditional method where the 3D model is sliced into a series of uniformly thick layers. Each layer has a constant thickness throughout the entire print. This slicing technique is straightforward and commonly used in many 3D printing applications. 
@@ -80,7 +81,7 @@
 
 ### d. Path Planning:
 
-
+![ex 7 6](https://github.com/SrinithiV/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118722030/d1fde61f-98a5-4d0b-9933-95eb90e7f799)
 
 ##### Path planning, in the context of 3D printing, refers to the process of determining the optimal toolpath or trajectory for the 3D printer's extruder to follow while building each layer of the printed object. It involves calculating the most efficient and effective path for the printer's nozzle or extruder to deposit material accurately and smoothly.
 
